@@ -14,9 +14,29 @@ This repository contains the implementation of a Reinforcement Learning (RL) tra
 1. Active Portfolio Management: The RL agent adapts dynamically to market conditions, executing frequent buy/sell decisions based on the policy learned from historical data.
 2. Superior Risk-Adjusted Performance: The agent achieved a higher Sharpe ratio compared to the Buy-and-Hold strategy, showing better risk management and return optimization.
 3. Data-Driven Strategy: By leveraging historical market data, the agent was able to make informed trading decisions to outperform the static Buy-and-Hold strategy.
+
+# Project Results
+Here are the graphs evaluating the performance of the RL-Agent 
+
+## 1. Sharpe Ratio
 ![sharpe ratio](https://github.com/user-attachments/assets/e9870959-82f9-4102-b62e-1b7cc064c5d2)
+
+## 2. Cummulative Returns
 ![CUMULATIVE RETURN](https://github.com/user-attachments/assets/6a8d4d64-c58c-4c44-a873-5323c9cace51)
+
+## 3. Profit and Loss Distribution
 ![p l](https://github.com/user-attachments/assets/43bf39f3-8328-4709-b963-dbf33dea0e25)
+
+## 4. Portfolio Returns Distribution
 ![RETURN DISTRIBUTION](https://github.com/user-attachments/assets/ef7d224e-a949-4950-a24a-ab061a9d8874)
-![RETURNS PORTFOLIO](https://github.com/user-attachments/assets/9fba2b0e-28f4-4091-959f-892e840cf248)
+
+## 5. Volatility
 ![voltiltity](https://github.com/user-attachments/assets/3e2ea111-836e-4879-83f1-31fd61c33239)
+
+## 6. Portfolio Returns
+![RETURNS PORTFOLIO](https://github.com/user-attachments/assets/7b121a0d-b075-4f54-8fa3-33ad66580d09)
+
+## 7. Maximum Drawdown 
+![DRAWDOWN](https://github.com/user-attachments/assets/4a75da18-b1b0-4e08-9e11-42b19e2af298)
+
+
